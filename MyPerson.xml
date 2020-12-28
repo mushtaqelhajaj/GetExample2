@@ -3,19 +3,19 @@
     <Person  Id="1">
         <FirstName>Benjamin</FirstName>
         <LastName>Frank</LastName>
-        <Email>ben.frank@hotmail.com<Email>
-    <Person>
+        <Email>ben.frank@hotmail.com</Email>
+    </Person>
     
     <Person  Id="1">
         <FirstName>Michael</FirstName>
         <LastName>Smith</LastName>
-        <Email>michael.smith@hotmail.com<Email>
-    <Person>
+        <Email>michael.smith@hotmail.com</Email>
+    </Person>
 
-    Person  Id="1">
+    <Person  Id="1">
         <FirstName>Sarah</FirstName>
         <LastName>Smith</LastName>
-        <Email>sarah.smith@hotmail.com<Email>
-    <Person>
+        <Email>sarah.smith@hotmail.com</Email>
+    </Person>
 
 </Peolpe>
