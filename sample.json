@@ -1,0 +1,17 @@
+[
+    {
+        "Id" : 1,
+        "FirstName" : "Benjamin",
+        "LastName" : "Finkel" ,
+        "Email" : "benjamin.finkel@yahoo.com" ,
+        "Active" : true
+    },
+
+    {
+        "Id" : 2,
+        "FirstName" : "John" ,
+        "LastName" : "Smith" ,
+        "Email" : "john.smith@yahoo.com" ,
+        "Active" : false
+    }
+]
